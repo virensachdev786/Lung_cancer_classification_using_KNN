@@ -1,6 +1,6 @@
 """
 KNN Project
-Modify the LUNG Cancer Data Set and use the kNN Algorithm. Run the algorithm 1000 times for each value of k=1,2,3,...,20. For each value of k find the mean test and training accuracy. Plot these two mean accuracy rates vs k on a single plot. 
+Modified the LUNG Cancer Data Set and use the kNN Algorithm. Ran the algorithm 1000 times for each value of k=1,2,3,...,20. For each value of k find the mean test and training accuracy. Plot these two mean accuracy rates vs k on a single plot. 
 
 reference:
 https://www.youtube.com/watch?v=XSoau_q0kz8
